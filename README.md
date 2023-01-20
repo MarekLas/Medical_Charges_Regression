@@ -81,13 +81,23 @@ I decided to group the age data and the bmi data into the categories. I suspecte
 
 ## Let's see some pairplot charts
 
+* shade by smoker
+
 <img src="https://github.com/MarekLas/Medical_Charges_Regression/blob/main/14_mc_paiplot_smoker.JPG" width ="60%"/>
+
+* shade by sex
 
 <img src="https://github.com/MarekLas/Medical_Charges_Regression/blob/main/15_mc_pairplot_sex.JPG" width ="60%"/>
 
+* shade by region
+
 <img src="https://github.com/MarekLas/Medical_Charges_Regression/blob/main/16_mc_pairplot_region.JPG" width ="60%"/>
 
+* shade by age
+
 <img src="https://github.com/MarekLas/Medical_Charges_Regression/blob/main/17_mc_pairplot_age_cat.JPG" width ="60%"/>
+
+* shade by weight
 
 <img src="https://github.com/MarekLas/Medical_Charges_Regression/blob/main/18_mc_pairplot_weight.JPG" width ="60%"/>
 
@@ -96,6 +106,7 @@ I decided to group the age data and the bmi data into the categories. I suspecte
 <img src="https://github.com/MarekLas/Medical_Charges_Regression/blob/main/19_mc_charges.JPG" width ="40%"/>
 
 ## Let's see some jointplot charts
+
 
 <img src="https://github.com/MarekLas/Medical_Charges_Regression/blob/main/20_mc_jointplot_age_bmi_cat.JPG" width ="30%"/>
 
