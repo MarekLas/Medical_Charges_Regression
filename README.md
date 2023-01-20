@@ -78,3 +78,39 @@ I decided to group the age data and the bmi data into the categories. I suspecte
 <img src="https://github.com/MarekLas/Medical_Charges_Regression/blob/main/12_mc_weight_category.png" width ="60%"/>
 
 <img src="https://github.com/MarekLas/Medical_Charges_Regression/blob/main/13_mc_weight_category_chart.JPG" width ="30%"/>
+
+## Let's see some pairplot charts
+
+<img src="https://github.com/MarekLas/Medical_Charges_Regression/blob/main/14_mc_paiplot_smoker.JPG" width ="60%"/>
+
+<img src="https://github.com/MarekLas/Medical_Charges_Regression/blob/main/15_mc_pairplot_sex.JPG" width ="60%"/>
+
+<img src="https://github.com/MarekLas/Medical_Charges_Regression/blob/main/16_mc_pairplot_region.JPG" width ="60%"/>
+
+<img src="https://github.com/MarekLas/Medical_Charges_Regression/blob/main/17_mc_pairplot_age_cat.JPG" width ="60%"/>
+
+<img src="https://github.com/MarekLas/Medical_Charges_Regression/blob/main/18_mc_pairplot_weight.JPG" width ="60%"/>
+
+## Label data
+
+<img src="https://github.com/MarekLas/Medical_Charges_Regression/blob/main/19_mc_charges.JPG" width ="40%"/>
+
+## Let's see some jointplot charts
+
+<img src="https://github.com/MarekLas/Medical_Charges_Regression/blob/main/20_mc_jointplot_age_bmi_cat.JPG" width ="30%"/>
+
+<img src="https://github.com/MarekLas/Medical_Charges_Regression/blob/main/21_mc_jointplot_age_charges_cat.JPG" width ="30%"/>
+
+<img src="https://github.com/MarekLas/Medical_Charges_Regression/blob/main/22_mc_jointplot_age_charges_weight.JPG" width ="30%"/>
+
+<img src="https://github.com/MarekLas/Medical_Charges_Regression/blob/main/23_mc_jointplot_age_charges_children.JPG" width ="30%"/>
+
+<img src="https://github.com/MarekLas/Medical_Charges_Regression/blob/main/23_mc_jointplot_bmi_charges_smoker.JPG" width ="30%"/>
+
+<img src="https://github.com/MarekLas/Medical_Charges_Regression/blob/main/24_mc_jointplot_age_bmi_smoker.JPG" width ="30%"/>
+
+<img src="https://github.com/MarekLas/Medical_Charges_Regression/blob/main/25_mc_jointplot_charges_bmi_region.JPG" width ="30%"/>
+
+## It's time for one hot encoding
+
+<img src="https://github.com/MarekLas/Medical_Charges_Regression/blob/main/26_mc_ohe.JPG" width ="140%"/>
