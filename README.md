@@ -111,7 +111,7 @@ I decided to group the age data and the bmi data into the categories. I suspecte
 
 <img src="https://github.com/MarekLas/Medical_Charges_Regression/blob/main/25_mc_jointplot_charges_bmi_region.JPG" width ="30%"/>
 
-## It's time for one hot encoding
+## It's time for the one hot encoding
 
 <img src="https://github.com/MarekLas/Medical_Charges_Regression/blob/main/26_mc_ohe.JPG" width ="140%"/>
 
