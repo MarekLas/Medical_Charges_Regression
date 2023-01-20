@@ -31,3 +31,14 @@ https://www.kaggle.com/datasets/mirichoi0218/insurance
 ## Link to the script
 
 https://github.com/MarekLas/Medical_Charges_Regression/blob/main/med_cost_2023.ipynb
+
+## Modules used (not all) in the script
+
+<img src="https://github.com/MarekLas/Medical_Charges_Regression/blob/main/01_mc_modules.png" align="center" width ="55%"/> 
+
+## Data sample
+Most of the data are categorical.
+
+<img src="https://github.com/MarekLas/Medical_Charges_Regression/blob/main/03_mc_rewiev_data.JPG" align="center" width ="40%"/> 
+
+
