@@ -103,7 +103,7 @@ I decided to group the age data and the bmi data into the categories. I suspecte
 
 ## Label data
 
-<img src="https://github.com/MarekLas/Medical_Charges_Regression/blob/main/19_mc_charges.JPG" width ="40%"/>
+<img src="https://github.com/MarekLas/Medical_Charges_Regression/blob/main/19_mc_charges.JPG" width ="50%"/>
 
 ## Let's see some jointplot charts
 
