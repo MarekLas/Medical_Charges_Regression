@@ -118,3 +118,67 @@ I decided to group the age data and the bmi data into the categories. I suspecte
 ## Correlation matrix
 
 <img src="https://github.com/MarekLas/Medical_Charges_Regression/blob/main/27_mc_heatmap.JPG" width ="100%"/>
+
+## Spliting data
+
+<img src="https://github.com/MarekLas/Medical_Charges_Regression/blob/main/28_mc_splitting_and_scaling.png" width ="60%"/>
+
+## Different regression models
+I decided to check what will be the results using different regression algorithms.To pick optimal hiperparmeters I used the GridSearchCV() method from scikit-learn library.
+
+https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html
+
+<img src="https://github.com/MarekLas/Medical_Charges_Regression/blob/main/29_mc_models.png" width ="60%"/>
+
+## Let's check which algorythm is the best for this dataset
+
+* Linear Regression
+
+<img src="https://github.com/MarekLas/Medical_Charges_Regression/blob/main/30_mc_linear_regression.JPG" width ="30%"/>
+
+* Lasso Regression
+
+<img src="https://github.com/MarekLas/Medical_Charges_Regression/blob/main/31_mc_lasso.JPG" width ="30%"/>
+
+* AdaBoost Regression
+
+<img src="https://github.com/MarekLas/Medical_Charges_Regression/blob/main/32_mc_adaboost.JPG" width ="30%"/>
+
+* Ridge Regression
+
+<img src="https://github.com/MarekLas/Medical_Charges_Regression/blob/main/33_mc_ridge.JPG" width ="30%"/>
+
+* Random Forest Regression
+
+<img src="https://github.com/MarekLas/Medical_Charges_Regression/blob/main/34_mc_random_forest.JPG" width ="30%"/>
+
+* KNeighbours Regression
+
+<img src="https://github.com/MarekLas/Medical_Charges_Regression/blob/main/35_mc_kneighbors.JPG" width ="30%"/>
+
+* SVR
+
+<img src="https://github.com/MarekLas/Medical_Charges_Regression/blob/main/36_mc_svr.JPG" width ="30%"/>
+
+### Ranking table
+
+<img src="https://github.com/MarekLas/Medical_Charges_Regression/blob/main/37_mc_ranking.JPG" width ="40%"/>
+
+### Barplot charts
+
+* Coefficient of determination - R2-score
+
+<img src="https://github.com/MarekLas/Medical_Charges_Regression/blob/main/37_mc_barplot_r2.JPG" width ="40%"/>
+
+* Mean Absolute Error - MAE
+
+<img src="https://github.com/MarekLas/Medical_Charges_Regression/blob/main/38_mc_barplot_mae.JPG" width ="40%"/>
+
+## Summary
+It looks like the AdaBoost Regression and Random Forest Regression are the best options for this dataset.
+
+
+
+
+
+![GitHub last commit](https://img.shields.io/github/last-commit/MarekLas/Medical_Charges_Regression)
