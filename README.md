@@ -49,4 +49,32 @@ There are no null values.
 ## Data describe
 At first sight everything looks ok.
 
-<img src="https://github.com/MarekLas/Medical_Charges_Regression/blob/main/06_mc_describe.JPG" width ="30%"/> 
+<img src="https://github.com/MarekLas/Medical_Charges_Regression/blob/main/06_mc_describe.JPG" width ="30%"/>
+
+## Categorical data review
+
+* sex  
+
+<img src="https://github.com/MarekLas/Medical_Charges_Regression/blob/main/07_mc_sex.JPG" width ="30%"/>
+
+* smoker
+
+<img src="https://github.com/MarekLas/Medical_Charges_Regression/blob/main/08_mc_smoker.JPG" width ="30%"/>
+
+* region
+
+<img src="https://github.com/MarekLas/Medical_Charges_Regression/blob/main/09_mc_region.JPG" width ="30%"/>
+
+I decided to group the age data and the bmi data into the categories. I suspected that data distribution in this datas is different in each range.
+
+* age
+
+<img src="https://github.com/MarekLas/Medical_Charges_Regression/blob/main/10_mc_age_category.png" width ="60%"/>
+
+<img src="https://github.com/MarekLas/Medical_Charges_Regression/blob/main/11_mc_age_category_chart.JPG" width ="30%"/>
+
+* bmi
+
+<img src="https://github.com/MarekLas/Medical_Charges_Regression/blob/main/12_mc_weight_category.png" width ="60%"/>
+
+<img src="https://github.com/MarekLas/Medical_Charges_Regression/blob/main/13_mc_weight_category_chart.JPG" width ="30%"/>
