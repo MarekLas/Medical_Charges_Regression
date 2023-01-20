@@ -114,3 +114,7 @@ I decided to group the age data and the bmi data into the categories. I suspecte
 ## It's time for one hot encoding
 
 <img src="https://github.com/MarekLas/Medical_Charges_Regression/blob/main/26_mc_ohe.JPG" width ="140%"/>
+
+## Correlation matrix
+
+<img src="https://github.com/MarekLas/Medical_Charges_Regression/blob/main/27_mc_heatmap.JPG" width ="100%"/>
