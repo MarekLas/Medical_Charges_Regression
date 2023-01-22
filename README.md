@@ -37,7 +37,7 @@ https://github.com/MarekLas/Medical_Charges_Regression/blob/main/med_cost_2023.i
 <img src="https://github.com/MarekLas/Medical_Charges_Regression/blob/main/01_mc_modules.png" align="center" width ="70%"/> 
 
 ## Data sample
-Most of the data are categorical.
+Most of the data is categorical.
 
 <img src="https://github.com/MarekLas/Medical_Charges_Regression/blob/main/03_mc_rewiev_data.JPG" align="center" width ="40%"/> 
 
