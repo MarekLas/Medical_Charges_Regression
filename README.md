@@ -130,7 +130,7 @@ I decided to group the age data and the bmi data into the categories. I suspecte
 
 <img src="https://github.com/MarekLas/Medical_Charges_Regression/blob/main/27_mc_heatmap.JPG" width ="100%"/>
 
-## Spliting data
+## Spliting the data
 
 <img src="https://github.com/MarekLas/Medical_Charges_Regression/blob/main/28_mc_splitting_and_scaling.png" width ="60%"/>
 
