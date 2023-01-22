@@ -34,7 +34,7 @@ https://github.com/MarekLas/Medical_Charges_Regression/blob/main/med_cost_2023.i
 
 ## Modules used (not all) in the script
 
-<img src="https://github.com/MarekLas/Medical_Charges_Regression/blob/main/01_mc_modules.png" align="center" width ="55%"/> 
+<img src="https://github.com/MarekLas/Medical_Charges_Regression/blob/main/01_mc_modules.png" align="center" width ="70%"/> 
 
 ## Data sample
 Most of the data are categorical.
