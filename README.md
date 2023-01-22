@@ -186,7 +186,7 @@ https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSe
 <img src="https://github.com/MarekLas/Medical_Charges_Regression/blob/main/38_mc_barplot_mae.JPG" width ="40%"/>
 
 ## Summary
-It looks like the AdaBoost Regression and Random Forest Regression are the best options for this dataset.
+It looks like the AdaBoost Regression and Random Forest Regression are the best options for this dataset and SVR is a total disaster.
 
 
 
