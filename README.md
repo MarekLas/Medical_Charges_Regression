@@ -108,19 +108,19 @@ I decided to group the age data and the bmi data into the categories. I suspecte
 ## Let's see some jointplot charts
 
 
-<img src="https://github.com/MarekLas/Medical_Charges_Regression/blob/main/20_mc_jointplot_age_bmi_cat.JPG" width ="30%"/>
+<img src="https://github.com/MarekLas/Medical_Charges_Regression/blob/main/20_mc_jointplot_age_bmi_cat.JPG" width ="40%"/>
 
-<img src="https://github.com/MarekLas/Medical_Charges_Regression/blob/main/21_mc_jointplot_age_charges_cat.JPG" width ="30%"/>
+<img src="https://github.com/MarekLas/Medical_Charges_Regression/blob/main/21_mc_jointplot_age_charges_cat.JPG" width ="40%"/>
 
-<img src="https://github.com/MarekLas/Medical_Charges_Regression/blob/main/22_mc_jointplot_age_charges_weight.JPG" width ="30%"/>
+<img src="https://github.com/MarekLas/Medical_Charges_Regression/blob/main/22_mc_jointplot_age_charges_weight.JPG" width ="40%"/>
 
-<img src="https://github.com/MarekLas/Medical_Charges_Regression/blob/main/23_mc_jointplot_age_charges_children.JPG" width ="30%"/>
+<img src="https://github.com/MarekLas/Medical_Charges_Regression/blob/main/23_mc_jointplot_age_charges_children.JPG" width ="40%"/>
 
-<img src="https://github.com/MarekLas/Medical_Charges_Regression/blob/main/23_mc_jointplot_bmi_charges_smoker.JPG" width ="30%"/>
+<img src="https://github.com/MarekLas/Medical_Charges_Regression/blob/main/23_mc_jointplot_bmi_charges_smoker.JPG" width ="40%"/>
 
-<img src="https://github.com/MarekLas/Medical_Charges_Regression/blob/main/24_mc_jointplot_age_bmi_smoker.JPG" width ="30%"/>
+<img src="https://github.com/MarekLas/Medical_Charges_Regression/blob/main/24_mc_jointplot_age_bmi_smoker.JPG" width ="40%"/>
 
-<img src="https://github.com/MarekLas/Medical_Charges_Regression/blob/main/25_mc_jointplot_charges_bmi_region.JPG" width ="30%"/>
+<img src="https://github.com/MarekLas/Medical_Charges_Regression/blob/main/25_mc_jointplot_charges_bmi_region.JPG" width ="40%"/>
 
 ## It's time for the one hot encoding
 
