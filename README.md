@@ -1,6 +1,6 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/MarekLas/Medical_Charges_Regression)
 
-<img align="center" width ="100%" src="https://github.com/MarekLas/Medical_Charges_Regression/blob/main/Doc-And-Pat.gif" />
+<img align="center" width ="100%" src="https://github.com/MarekLas/Medical_Charges_Regression/blob/main/readme_files/Doc-And-Pat.gif" />
 
 <br />
 
@@ -30,9 +30,9 @@ Columns
 
 https://www.kaggle.com/datasets/mirichoi0218/insurance
 
-## Link to the script
+## <b>Link to the script</b>
 
-https://github.com/MarekLas/Medical_Charges_Regression/blob/main/med_cost_2023.ipynb
+<b>https://github.com/MarekLas/Medical_Charges_Regression/blob/main/med_cost_2023.ipynb</b>
 
 ## Modules used (not all) in the script
 
