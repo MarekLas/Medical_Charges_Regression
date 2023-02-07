@@ -36,7 +36,7 @@ https://www.kaggle.com/datasets/mirichoi0218/insurance
 
 ## Modules used (not all) in the script
 
-<img src="https://github.com/MarekLas/Medical_Charges_Regression/blob/main/readme_files/01_mc_modules.png" align="center" width ="70%"/> 
+<img src="https://github.com/MarekLas/Medical_Charges_Regression/blob/main/readme_files/01_mc_modules_v2.png" align="center" width ="70%"/> 
 
 ## Data sample
 Most of the data is categorical.
