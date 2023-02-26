@@ -41,7 +41,7 @@ https://www.kaggle.com/datasets/mirichoi0218/insurance
 ## Data sample
 Most of the data is categorical.
 
-<img src="https://github.com/MarekLas/Medical_Charges_Regression/blob/main/readme_files/03_mc_rewiev_data.JPG" align="center" width ="40%"/> 
+<img src="https://github.com/MarekLas/Medical_Charges_Regression/blob/main/readme_files/03_mc_rewiev_data.JPG" align="center" width ="45%"/> 
 
 ## Data information
 There are no null values.
