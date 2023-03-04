@@ -51,7 +51,7 @@ There are no null values.
 ## Data describe
 At first sight everything looks ok.
 
-<img src="https://github.com/MarekLas/Medical_Charges_Regression/blob/main/readme_files/06_mc_describe.JPG" width ="30%"/>
+<img src="https://github.com/MarekLas/Medical_Charges_Regression/blob/main/readme_files/06_mc_describe.JPG" width ="35%"/>
 
 ## Categorical data review
 
