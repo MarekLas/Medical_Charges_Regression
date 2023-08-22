@@ -46,7 +46,7 @@ Most of the data is categorical.
 ## Data information
 There are no null values.
 
-<img src="https://github.com/MarekLas/Medical_Charges_Regression/blob/main/readme_files/04_mc_data_info.JPG" width ="30%"/> 
+<img src="https://github.com/MarekLas/Medical_Charges_Regression/blob/main/readme_files/04_mc_data_info.JPG" width ="31%"/> 
 
 ## Data describe
 At first sight everything looks ok.
